@@ -22,10 +22,8 @@ Boss: this one can tank up to three hits, but is really slower than the others.'
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Pull requests are welcome.
+This is really early footage, and therefore it's not yet finished.
 
 ## Gameplay footage
 https://youtu.be/eIz0gkBpHJ4
